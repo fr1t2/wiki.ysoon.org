@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-nav_order: 8
+nav_order: 6
 description: "A collection of information, practices, and best use policies for personal digital security and data protection. Covering ways to opt out of mass data harvesting, remove your data from corporations and protecting your personal information."
 permalink: /faq
 last_modified_date: 2020-06-28T11:06:08+0000
