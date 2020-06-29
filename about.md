@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-nav_order: 90
+nav_order: 8
 ---
 
 ## Ysoon Wiki
