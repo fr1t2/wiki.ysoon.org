@@ -30,4 +30,6 @@ Our main goal is to shine light on the inner workings of those behind the curtai
 
 Second on our list is digital security, or how do we keep all of our intimate data safe in this hostile environment.
 
+### Physical Security
 
+How do we keep our equipment, data and transmissions secure in the physical world?
